@@ -1,4 +1,4 @@
-# Histogram
+# Histogram Classification
 
 Online demo of the histogram: https://colab.research.google.com/drive/1XZka-plkmm129P7TEE1J5MclqcezyBFO?usp=sharing.
 
